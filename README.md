@@ -1,2 +1,4 @@
-# LTP_sabrina
-Projeto bimestral eu acho
+Pji
+PARA EXECUTAR:
+mudar para a pasta frontend
+npm start
